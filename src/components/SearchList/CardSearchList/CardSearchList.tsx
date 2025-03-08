@@ -53,7 +53,7 @@ const CardSearchList = (props: CardSearchListProps) => {
                       </svg>
                     </div>
                   </div>
-                  <div className="text-sm md:text-base lg:text-lg flex">
+                  <div className="text-sm md:text-base lg:text-lg flex text-left">
                     {repo.description ? repo.description : "No description"}
                   </div>
                 </div>

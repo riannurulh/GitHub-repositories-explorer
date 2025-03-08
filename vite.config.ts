@@ -1,8 +1,15 @@
 import { defineConfig } from 'vite'
-import tailwindcss from '@tailwindcss/vite'
+import react from '@vitejs/plugin-react'
+// import tailwindcss from '@tailwindcss/vite'
+
 export default defineConfig({
   plugins: [
-    tailwindcss(),
+    // tailwindcss(),
+    react(),
   ],
-  base: '/GitHub-repositories-explorer/'
+  base: '/GitHub-repositories-explorer/', // Sesuai dengan nama repo GitHub Pages
+  // assetsInclude: ['**/*'],
+  build: {
+    outDir: 'dist',
+  },
 })
