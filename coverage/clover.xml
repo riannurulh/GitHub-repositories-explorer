@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1741396201319" clover="3.2.0">
+  <project timestamp="1741396201319" name="All files">
+    <metrics statements="280" coveredstatements="248" conditionals="65" coveredconditionals="55" methods="23" coveredmethods="14" elements="368" coveredelements="317" complexity="0" loc="280" ncloc="280" packages="9" files="21" classes="21"/>
+    <package name="src">
+      <metrics statements="27" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="App.tsx" path="C:\Project\GitHub-repositories-explorer\src\App.tsx">
+        <metrics statements="6" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="main.tsx" path="C:\Project\GitHub-repositories-explorer\src\main.tsx">
+        <metrics statements="13" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="setupTests.ts" path="C:\Project\GitHub-repositories-explorer\src\setupTests.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+      <file name="store.ts" path="C:\Project\GitHub-repositories-explorer\src\store.ts">
+        <metrics statements="7" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.SearchForm">
+      <metrics statements="12" coveredstatements="11" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <file name="SearchForm.tsx" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\SearchForm.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="65" type="stmt"/>
+        <line num="8" count="65" type="stmt"/>
+        <line num="9" count="65" type="stmt"/>
+        <line num="10" count="65" type="stmt"/>
+        <line num="11" count="65" type="stmt"/>
+        <line num="12" count="65" type="stmt"/>
+        <line num="14" count="65" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="SearchForm.types.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\SearchForm.types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      </file>
+      <file name="index.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.SearchForm.Button">
+      <metrics statements="14" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="3" coveredmethods="2"/>
+      <file name="Button.tsx" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Button\Button.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="66" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="66" type="stmt"/>
+        <line num="8" count="66" type="stmt"/>
+        <line num="9" count="66" type="stmt"/>
+        <line num="10" count="66" type="stmt"/>
+        <line num="11" count="66" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="66" type="stmt"/>
+        <line num="14" count="66" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="66" type="stmt"/>
+        <line num="17" count="66" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+      <file name="Button.types.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Button\Button.types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      </file>
+      <file name="index.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Button\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.SearchForm.Input">
+      <metrics statements="14" coveredstatements="13" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="3"/>
+      <file name="Input.tsx" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Input\Input.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="66" type="stmt"/>
+        <line num="5" count="66" type="stmt"/>
+        <line num="6" count="66" type="stmt"/>
+        <line num="7" count="66" type="stmt"/>
+        <line num="8" count="66" type="stmt"/>
+        <line num="9" count="66" type="stmt"/>
+        <line num="10" count="66" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="66" type="stmt"/>
+        <line num="12" count="66" type="stmt"/>
+        <line num="13" count="66" type="stmt"/>
+        <line num="15" count="66" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="Input.types.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Input\Input.types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      </file>
+      <file name="index.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchForm\Input\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.SearchList">
+      <metrics statements="24" coveredstatements="23" conditionals="7" coveredconditionals="6" methods="2" coveredmethods="1"/>
+      <file name="SearchList.tsx" path="C:\Project\GitHub-repositories-explorer\src\components\SearchList\SearchList.tsx">
+        <metrics statements="23" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="80" type="stmt"/>
+        <line num="9" count="80" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="80" type="stmt"/>
+        <line num="11" count="80" type="stmt"/>
+        <line num="13" count="80" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="19" count="80" type="stmt"/>
+        <line num="20" count="80" type="stmt"/>
+        <line num="21" count="80" type="stmt"/>
+        <line num="22" count="80" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="21" type="stmt"/>
+        <line num="24" count="80" type="stmt"/>
+        <line num="25" count="80" type="stmt"/>
+        <line num="27" count="80" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchList\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.SearchList.CardSearchList">
+      <metrics statements="64" coveredstatements="63" conditionals="11" coveredconditionals="10" methods="4" coveredmethods="3"/>
+      <file name="CardSearchList.tsx" path="C:\Project\GitHub-repositories-explorer\src\components\SearchList\CardSearchList\CardSearchList.tsx">
+        <metrics statements="63" coveredstatements="63" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="35" type="stmt"/>
+        <line num="7" count="35" type="stmt"/>
+        <line num="9" count="35" type="stmt"/>
+        <line num="10" count="35" type="stmt"/>
+        <line num="11" count="35" type="stmt"/>
+        <line num="12" count="35" type="stmt"/>
+        <line num="13" count="35" type="stmt"/>
+        <line num="14" count="35" type="stmt"/>
+        <line num="15" count="35" type="stmt"/>
+        <line num="16" count="35" type="stmt"/>
+        <line num="17" count="35" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="35" type="stmt"/>
+        <line num="19" count="35" type="stmt"/>
+        <line num="20" count="35" type="stmt"/>
+        <line num="21" count="35" type="stmt"/>
+        <line num="22" count="35" type="stmt"/>
+        <line num="23" count="35" type="stmt"/>
+        <line num="25" count="35" type="stmt"/>
+        <line num="26" count="35" type="stmt"/>
+        <line num="27" count="35" type="stmt"/>
+        <line num="28" count="35" type="stmt"/>
+        <line num="29" count="35" type="cond" truecount="1" falsecount="0"/>
+        <line num="30" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="48" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="51" count="5" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="54" count="5" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="57" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="5" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="62" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+        <line num="70" count="35" type="stmt"/>
+        <line num="72" count="35" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+      </file>
+      <file name="CardSearchList.types.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchList\CardSearchList\CardSearchList.types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      </file>
+      <file name="index.ts" path="C:\Project\GitHub-repositories-explorer\src\components\SearchList\CardSearchList\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.features.search">
+      <metrics statements="66" coveredstatements="66" conditionals="15" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <file name="searchSlice.ts" path="C:\Project\GitHub-repositories-explorer\src\features\search\searchSlice.ts">
+        <metrics statements="66" coveredstatements="66" conditionals="15" coveredconditionals="14" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="42" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="54" count="5" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="57" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="58" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="80" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="82" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="83" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.helpers">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="PostRequest.ts" path="C:\Project\GitHub-repositories-explorer\src\helpers\PostRequest.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="54" coveredstatements="54" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2"/>
+      <file name="Home.tsx" path="C:\Project\GitHub-repositories-explorer\src\pages\Home.tsx">
+        <metrics statements="54" coveredstatements="54" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="64" type="stmt"/>
+        <line num="10" count="64" type="stmt"/>
+        <line num="11" count="64" type="stmt"/>
+        <line num="12" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="64" type="stmt"/>
+        <line num="14" count="64" type="stmt"/>
+        <line num="16" count="64" type="stmt"/>
+        <line num="18" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="22" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="28" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="30" count="12" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="35" count="12" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="64" type="stmt"/>
+        <line num="40" count="64" type="stmt"/>
+        <line num="41" count="64" type="stmt"/>
+        <line num="42" count="64" type="stmt"/>
+        <line num="43" count="64" type="stmt"/>
+        <line num="44" count="64" type="stmt"/>
+        <line num="45" count="64" type="stmt"/>
+        <line num="46" count="64" type="stmt"/>
+        <line num="47" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="51" count="63" type="cond" truecount="1" falsecount="0"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="55" count="60" type="cond" truecount="1" falsecount="0"/>
+        <line num="56" count="22" type="stmt"/>
+        <line num="57" count="22" type="stmt"/>
+        <line num="58" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="60" count="38" type="stmt"/>
+        <line num="62" count="64" type="stmt"/>
+        <line num="63" count="64" type="stmt"/>
+        <line num="65" count="64" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
